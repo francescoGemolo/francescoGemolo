@@ -1,6 +1,5 @@
 # Hi, I'm Francesco 👋
 
-## About Me:
 I'm an aspiring Full Stack Developer currently building my skills in web development and database design.<br>I enjoy working with modern frontend technologies and I'm continuously learning how to create well-structured, efficient, and scalable applications.<br><br>I'm particularly interested in understanding how systems work behind the scenes — from designing databases to organizing clean and maintainable code.<br>At the moment, I'm focused on improving my practical skills and preparing for real-world development projects.<br><br>Feel free to follow my progress — new projects are coming soon 🚀
 
 ## 🌐 Socials:
@@ -16,7 +15,7 @@ Git | GitHub | Vite | Docker
 - React, React Native
 - Advanced SQL and database relationships
 
-### Projects
+## Projects
 🚧 I'm currently working on a social events app. Stay tuned for updates!
 
 <strong>Thanks for visiting my profile!<strong/>
