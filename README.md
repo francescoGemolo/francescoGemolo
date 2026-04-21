@@ -38,6 +38,6 @@ Git | GitHub | Vite | Docker
 - Advanced SQL and database relationships
 
 ## Projects
-🚧 I'm currently working on a social events app. Stay tuned for updates!
+🚧 I'm currently working. Stay tuned for updates!
 
 **Thanks for visiting my profile!**
