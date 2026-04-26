@@ -52,7 +52,11 @@ What drives me is understanding systems from the inside out — clean database d
 
 ## 📂 Projects
 
-🚧 Work in progress — stay tuned for updates!
----
+| Project | Description | Tech |
+|---|---|---|
+| [JS-Calculator](https://github.com/francescoGemolo/JS-Calculator) | A functional calculator built in vanilla JavaScript | JS · HTML · CSS |
+| [JS-Game](https://github.com/francescoGemolo/JS-Game) | A browser-based game built with JavaScript | JS · HTML · CSS |
+| [Assignment-1](https://github.com/francescoGemolo/assignment-1) | Front-end assignment #1 | HTML · CSS · JS |
+| [Assignment-2](https://github.com/francescoGemolo/assignment-2) | Front-end assignment #2 | HTML · CSS · JS |
 
 *Thanks for stopping by. Feel free to connect!*
