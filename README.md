@@ -1,10 +1,10 @@
 # Hi, I'm Francesco 👋🏼
 
-Front-end Developer with a strong focus on **UI/UX design** — I build interfaces that are not just functional, but genuinely enjoyable to use.
+Front-end Developer with a strong focus on **UI/UX design**: I build interfaces that are not just functional, but genuinely enjoyable to use.
 
 I work across the full frontend stack, from semantic HTML5 and CSS3 to component-driven development with **React** and **Vue.js**, styling with **Tailwind CSS**, and bundling with **Vite**. On the backend side, I'm deepening my knowledge of **Node.js** and **PostgreSQL**, with an eye toward building complete, well-architected applications.
 
-What drives me is understanding systems from the inside out — clean database design, maintainable code structure, and interfaces that feel intuitive. I care about the details that make software feel right.
+What drives me is understanding systems from the inside out: clean database design, maintainable code structure, and interfaces that feel intuitive. I care about the details that make software feel right.
 
 ---
 
@@ -43,16 +43,22 @@ What drives me is understanding systems from the inside out — clean database d
 
 ## 🚀 Currently Deepening
 
-- **Node.js & Express** — REST APIs, middleware, server-side architecture
-- **React Native** — mobile development with a familiar paradigm
-- **Advanced SQL** — complex queries, indexing, relational design patterns
-- **UI/UX principles** — accessibility, design systems, component consistency
+- **Node.js & Express**: REST APIs, middleware, server-side architecture
+- **React Native**: mobile development with a familiar paradigm
+- **Advanced SQL**: complex queries, indexing, relational design patterns
+- **UI/UX principles**: accessibility, design systems, component consistency
 
 ---
 
 ## 📂 Projects
 
-🚧 Work in progress — stay tuned for updates!
+- **[js-calculator](https://github.com/francescoGemolo/js-calculator)**: a web calculator built as a group project with HTML, CSS and JavaScript, featuring basic arithmetic operations.
+- **[js-game](https://github.com/francescoGemolo/js-game)**: a small web game built with HTML, CSS and JavaScript as a group project.
+- **[js-test](https://github.com/francescoGemolo/js-test)** and **[js-test-2](https://github.com/francescoGemolo/js-test-2)**: JavaScript exercises and experiments used to practice core language concepts.
+- **[test-hang](https://github.com/francescoGemolo/test-hang)**: a CSS focused practice repository.
+
+More structured projects (React, Vue, Node.js/Express, PostgreSQL) are in the works. Stay tuned for updates!
+
 ---
 
 *Thanks for stopping by. Feel free to connect!*
