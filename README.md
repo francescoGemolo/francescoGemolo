@@ -59,7 +59,7 @@ What drives me is understanding systems from the inside out: clean database desi
 A web app for managing bookings on a tennis club's court. Members can book the court, manage their account and their reservations, while admins get a dedicated panel to view and manage every booking.
 **Stack:** React 19 + TypeScript, Vite, Firebase (Authentication, Firestore), PWA (installable), custom domain hosting.
 
-### [Ludi's 60m](https://github.com/francescoGemolo/ludis60m) · [Live demo](https://francescogemolo.github.io/ludis60m/)
+### [Ludi's 60m](https://github.com/francescoGemolo/ludis60m) · [https://francescogemolo.github.io/ludis60m/](https://francescogemolo.github.io/ludis60m/)
 A minimal Pomodoro-style focus timer, installable as a PWA. It cycles through focus and break sessions, tracks daily and weekly stats locally on your device, and remembers theme and timer preferences between visits.
 **Stack:** React 19 + TypeScript, Vite, vite-plugin-pwa, lottie-react.
 
