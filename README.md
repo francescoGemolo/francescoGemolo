@@ -10,10 +10,10 @@ What drives me is understanding systems from the inside out: clean database desi
 
 ## 🌐 Socials
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TBECkCEc)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gmlshowcase)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francescomoramarco)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:francescolavoro0209@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TBECkCEc)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gmlshowcase)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/francescomoramarco)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francescolavoro0209@gmail.com)
 
 ---
 
@@ -55,12 +55,19 @@ What drives me is understanding systems from the inside out: clean database desi
 
 ## 📂 Projects
 
-- **[js-calculator](https://github.com/francescoGemolo/js-calculator)**: a web calculator built as a group project with HTML, CSS and JavaScript, featuring basic arithmetic operations.
-- **[js-game](https://github.com/francescoGemolo/js-game)**: a small web game built with HTML, CSS and JavaScript as a group project.
-- **[js-test](https://github.com/francescoGemolo/js-test)** and **[js-test-2](https://github.com/francescoGemolo/js-test-2)**: JavaScript exercises and experiments used to practice core language concepts.
-- **[test-hang](https://github.com/francescoGemolo/test-hang)**: a CSS focused practice repository.
+### [Salandra Tennis](https://github.com/francescoGemolo/salandra-tennis) · [salandratennis.it](https://salandratennis.it/)
+A web app for managing bookings on a tennis club's court. Members can book the court, manage their account and their reservations, while admins get a dedicated panel to view and manage every booking.
+**Stack:** React 19 + TypeScript, Vite, Firebase (Authentication, Firestore), PWA (installable), custom domain hosting.
 
-More structured projects (React, Vue, Node.js/Express, PostgreSQL) are in the works. Stay tuned for updates!
+### [Ludi's 60m](https://github.com/francescoGemolo/ludis60m) · [Live demo](https://francescogemolo.github.io/ludis60m/)
+A minimal Pomodoro-style focus timer, installable as a PWA. It cycles through focus and break sessions, tracks daily and weekly stats locally on your device, and remembers theme and timer preferences between visits.
+**Stack:** React 19 + TypeScript, Vite, vite-plugin-pwa, lottie-react.
+
+### Practice repositories
+- **[js-calculator](https://github.com/francescoGemolo/js-calculator)**: a web calculator built as a group project with HTML, CSS and JavaScript.
+- **[js-game](https://github.com/francescoGemolo/js-game)**: a small web game built with HTML, CSS and JavaScript as a group project.
+- **[js-test](https://github.com/francescoGemolo/js-test)** and **[js-test-2](https://github.com/francescoGemolo/js-test-2)**: JavaScript exercises used to practice core language concepts.
+- **[test-hang](https://github.com/francescoGemolo/test-hang)**: a CSS focused practice repository.
 
 ---
 
