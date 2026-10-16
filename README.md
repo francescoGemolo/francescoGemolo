@@ -1,14 +1,19 @@
+
 # Hi, I'm Francesco 👋🏼
 
-Front-end Developer with a strong focus on **UI/UX design**: I build interfaces that are not just functional, but genuinely enjoyable to use.
+### Software Developer | Frontend · Backend · Apple Platforms
 
-I work across the full frontend stack, from semantic HTML5 and CSS3 to component-driven development with **React** and **Vue.js**, styling with **Tailwind CSS**, and bundling with **Vite**. On the backend side, I'm deepening my knowledge of **Node.js** and **PostgreSQL**, with an eye toward building complete, well-architected applications.
+I design and develop modern, scalable software with a strong focus on user experience, software architecture, and code quality. My goal is to build applications that combine thoughtful design, reliable engineering, and intuitive user interactions.
 
-What drives me is understanding systems from the inside out: clean database design, maintainable code structure, and interfaces that feel intuitive. I care about the details that make software feel right.
+On the frontend, I work with React, Vue.js, Tailwind CSS, and Vite, building responsive interfaces and maintainable component architectures. I also develop native applications for Apple platforms, leveraging SwiftUI and AppKit to create seamless experiences across macOS and the Apple ecosystem.
+
+Beyond the interface, I take ownership of the backend architecture and implementation of my projects, working with Node.js and PostgreSQL to design APIs, structure data, and build reliable application logic. I value well-designed systems, clear separation of concerns, and solutions that remain maintainable as projects evolve.
+
+My approach combines product thinking with engineering discipline: understanding the problem, designing the right solution, and delivering software where every detail serves a purpose.
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect with me
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TBECkCEc)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gmlshowcase)
@@ -19,56 +24,40 @@ What drives me is understanding systems from the inside out: clean database desi
 
 ## 💻 Tech Stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+**Frontend**
 
-### Backend & Database
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firestore](https://img.shields.io/badge/firestore-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Tools & Environment
-![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+**Apple Development**
 
----
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
+![AppKit](https://img.shields.io/badge/AppKit-333333?style=for-the-badge&logo=apple&logoColor=white)
 
-## 🚀 Currently Deepening
+**Backend & Databases**
 
-- **Node.js & Express**: REST APIs, middleware, server-side architecture
-- **React Native**: mobile development with a familiar paradigm
-- **Advanced SQL**: complex queries, indexing, relational design patterns
-- **UI/UX principles**: accessibility, design systems, component consistency
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📂 Projects
+## 🚀 What I Do
 
-### [Salandra Tennis](https://github.com/francescoGemolo/salandra-tennis) · [salandratennis.it](https://salandratennis.it/)
-A web app for managing bookings on a tennis club's court. Members can book the court, manage their account and their reservations, while admins get a dedicated panel to view and manage every booking.
-**Stack:** React 19 + TypeScript, Vite, Firebase (Authentication, Firestore), PWA (installable), custom domain hosting.
-
-### [Ludi's 60m](https://github.com/francescoGemolo/ludis60m) · [francescogemolo.github.io/ludis60m/](https://francescogemolo.github.io/ludis60m/)
-A minimal Pomodoro-style focus timer, installable as a PWA. It cycles through focus and break sessions, tracks daily and weekly stats locally on your device, and remembers theme and timer preferences between visits.
-**Stack:** React 19 + TypeScript, Vite, vite-plugin-pwa, lottie-react.
-
-### Practice repositories
-- **[js-calculator](https://github.com/francescoGemolo/js-calculator)**: a web calculator built as a group project with HTML, CSS and JavaScript.
-- **[js-game](https://github.com/francescoGemolo/js-game)**: a small web game built with HTML, CSS and JavaScript as a group project.
-- **[js-test](https://github.com/francescoGemolo/js-test)** and **[js-test-2](https://github.com/francescoGemolo/js-test-2)**: JavaScript exercises used to practice core language concepts.
-- **[test-hang](https://github.com/francescoGemolo/test-hang)**: a CSS focused practice repository.
+- Build web applications with React and Vue.js.
+- Develop native macOS applications using SwiftUI and AppKit.
+- Design and implement backend services and APIs with Node.js.
+- Work with PostgreSQL for database design and data management.
+- Focus on UI/UX, performance, and maintainable code.
 
 ---
 
-*Thanks for stopping by. Feel free to connect!*
+Thanks for stopping by! Feel free to check out my repositories. 👨🏻‍💻
